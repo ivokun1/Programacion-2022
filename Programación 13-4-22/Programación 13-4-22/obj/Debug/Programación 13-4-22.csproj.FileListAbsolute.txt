@@ -1,0 +1,7 @@
+C:\Users\info-1.INDU\source\repos\Programación 13-4-22\Programación 13-4-22\bin\Debug\Programación 13-4-22.exe.config
+C:\Users\info-1.INDU\source\repos\Programación 13-4-22\Programación 13-4-22\bin\Debug\Programación 13-4-22.exe
+C:\Users\info-1.INDU\source\repos\Programación 13-4-22\Programación 13-4-22\bin\Debug\Programación 13-4-22.pdb
+C:\Users\info-1.INDU\source\repos\Programación 13-4-22\Programación 13-4-22\obj\Debug\Programación 13-4-22.csprojAssemblyReference.cache
+C:\Users\info-1.INDU\source\repos\Programación 13-4-22\Programación 13-4-22\obj\Debug\Programación 13-4-22.csproj.CoreCompileInputs.cache
+C:\Users\info-1.INDU\source\repos\Programación 13-4-22\Programación 13-4-22\obj\Debug\Programación 13-4-22.exe
+C:\Users\info-1.INDU\source\repos\Programación 13-4-22\Programación 13-4-22\obj\Debug\Programación 13-4-22.pdb
